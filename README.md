@@ -1,12 +1,14 @@
 description:
 ------
-collecting a data on alcohols from varied of websites. 
-compare between the data from the different online shops recommend to the user where is the cheapest place to buy. 
+This project aims to find the cheapest alcoholic drink.
+The way its done is by scraping a variety of different websites and saving their sold items in a DB.
+Later, we query the relevant tables and get the results we are looking for,
+like the cheapest item.
 
-project goal:
+project goals:
 -----
-- compare between alcohol drink from different online shops
-- find the cheapest place to buy 
+- compare between alcohol drinks from different online shops
+- find the cheapest place
 
 project structures:
 ---
