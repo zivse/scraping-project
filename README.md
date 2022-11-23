@@ -19,6 +19,6 @@ project structures:
     - find the relevant information from the website
     - using beautiful soup library to scrape the pages and find the relevant information
 
--db_utils:
+- db_utils:
   - create SQL tables
   - insert the information inside the tables
